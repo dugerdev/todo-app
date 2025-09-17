@@ -6,12 +6,6 @@ A simple, user-friendly, and fully browser-based task management application. De
 
 ---
 
-## 🚀 Live Demo
-
-🔗 [View live on GitHub Pages](https://kullaniciadi.github.io/todo-app)
-
----
-
 ## 📌 Features
 
 - 📝 Add tasks
@@ -41,3 +35,4 @@ A simple, user-friendly, and fully browser-based task management application. De
 
 ```bash
 git clone https://github.com/USERNAME/todo-app.git
+

@@ -44,6 +44,6 @@ Your input is highly appreciated and helps improve this project for everyone. ðŸ
 1. Download the repository via `Code` > `Download ZIP` or use `git clone`:
 
 ```bash
-git clone https://github.com/USERNAME/todo-app.git
+git clone https://github.com/dugerdev/todo-app.git
 
 

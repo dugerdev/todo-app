@@ -1,6 +1,6 @@
 # ✅ Todo App
 
-![Cover Image](./cover-image.png)
+![Kapak Görseli](./kapak-gorseli.png)
 
 A simple, user-friendly, and fully browser-based task management application. Developed using HTML, CSS (Bootstrap), JavaScript, and `localStorage`. With features like adding, editing, deleting, and filtering tasks, you can easily organize your daily to-dos.
 

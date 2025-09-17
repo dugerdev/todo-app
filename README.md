@@ -5,6 +5,16 @@
 A simple, user-friendly, and fully browser-based task management application. Developed using HTML, CSS (Bootstrap), JavaScript, and `localStorage`. With features like adding, editing, deleting, and filtering tasks, you can easily organize your daily to-dos.
 
 ---
+## 📝 Reviews & Feedback
+
+We’d love to hear your thoughts! 🚀  
+If you try this project and have suggestions, ideas, or improvements:
+
+- ⭐ Star the repository if you found it useful  
+- 🐛 Open an [issue](https://github.com/dugerdev/todo-app/issues) for bugs or feature requests  
+- 💬 Share feedback to help make the app better  
+
+Your input is highly appreciated and helps improve this project for everyone. 🙌
 
 ## 📌 Features
 
@@ -35,4 +45,5 @@ A simple, user-friendly, and fully browser-based task management application. De
 
 ```bash
 git clone https://github.com/USERNAME/todo-app.git
+
 
